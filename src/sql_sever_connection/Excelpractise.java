@@ -32,7 +32,7 @@ public class Excelpractise {
 			cell.setCellValue(str);
 		}
 	}
-	cell.setCellValue("pravirnaj");
+	cell.setCellValue("kavibalan");
 	}
 
 }
